@@ -57,6 +57,11 @@
             <version>11.0.0-M13</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>org.apache.tomcat</groupId>
+            <artifactId>tomcat-juli</artifactId>
+            <version>11.0.0-M13</version>
+        </dependency>
     </dependencies>
 
     <build>
