@@ -1,1 +1,1 @@
-web: java -jar bootstrap.jar
+web: java -jar bootstrap-juli.jar
