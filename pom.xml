@@ -51,21 +51,6 @@
             <artifactId>heroku-maven-plugin</artifactId>
             <version>3.0.7</version>
         </dependency>
-        <dependency>
-            <groupId>org.apache.logging.log4j</groupId>
-            <artifactId>log4j-api</artifactId>
-            <version>3.0.0-alpha1</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.tomcat.embed</groupId>
-            <artifactId>tomcat-embed-logging-juli</artifactId>
-            <version>9.0.0.M6</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.tomcat</groupId>
-            <artifactId>tomcat-util</artifactId>
-            <version>11.0.0-M13</version>
-        </dependency>
     </dependencies>
 
     <build>
