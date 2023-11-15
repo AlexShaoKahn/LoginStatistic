@@ -1,1 +1,1 @@
-web: java -jar bootstrap.jar
+web: java -jar target\LoginStatistic-1.0-SNAPSHOT.war 
